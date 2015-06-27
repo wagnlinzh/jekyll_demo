@@ -10,7 +10,7 @@ body {
   color: #606c71; }
 
 a {
-  color: #15767B;
+  color: rgba(9, 9, 9, 0.44);
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
