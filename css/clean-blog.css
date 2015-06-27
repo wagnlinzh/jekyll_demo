@@ -24,7 +24,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #15905F;
 }
 a img:hover,
 a img:focus {
@@ -382,7 +382,7 @@ form .row:first-child .floating-label-form-group {
 ::selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #15915F;
 }
 img::selection {
   color: white;

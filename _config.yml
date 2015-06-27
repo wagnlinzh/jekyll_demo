@@ -1,12 +1,11 @@
 # Site settings
 title: Wanglinzhizhi 
 email: wanglinzhizhi@gmail.com
-description: "游走在上下文无关文法间"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://wagnlinzh.github.io"
-twitter_username: wanglinzhizhi
+description: > # this means to ignore newlines until "baseurl:"
+  游走在上下文无关文法间
+baseurl: "" # the subpath of your site, e.g. /blog/ 
 github_username:  wagnlinzh
-facebook_username:  wanglinzhizhi
+
 
 # Build settings
 markdown: kramdown
